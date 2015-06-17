@@ -19,7 +19,6 @@
     "demos",
     "generators",
     "i18n",
-    "msg",
     "build.py",
     "COPYING",
     "dart_compressed.js",
@@ -27,14 +26,13 @@
     "python_compressed.js",
     "README.md"
   ],
-  "_release": "53809f5560",
+  "_release": "55d59ea078",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "53809f5560969e0813672eb58be2054f14f4a663"
+    "commit": "55d59ea078fba86ca3bfc322f3ba6d8ecf7c1070"
   },
   "_source": "git://github.com/cdjackson/openhab-blockly.git",
   "_target": "*",
-  "_originalSource": "openhab-blockly",
-  "_direct": true
+  "_originalSource": "openhab-blockly"
 }
