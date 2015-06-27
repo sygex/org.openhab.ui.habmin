@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.openhab.ui.habmin' version='2.0.0.201504141605'>
+    <properties size='5'>
+      <property name='artifact.size' value='3557112'/>
+      <property name='download.size' value='3557112'/>
+      <property name='maven-groupId' value='org.openhab.ui'/>
+      <property name='maven-artifactId' value='org.openhab.ui.habmin'/>
+      <property name='maven-version' value='2.0.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
